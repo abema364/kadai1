@@ -38,6 +38,8 @@
 .item .img {
     width: 280px;
     height: 150px;
+    background-size: cover;
+    background-position: bottom;
 }
 .item:first-child .img {
     background-image: url(./img/flow01.png);
