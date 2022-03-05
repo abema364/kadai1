@@ -12,13 +12,14 @@
 .main {
     display: flex;
     justify-content: center;
+    padding: 50px 0;
 }
 
 .main .item {
     width: 300px;
     background-color: #eee;
     position: relative;
-    margin: 50px 30px 50px 0;
+    margin-right: 30px;
     padding: 10px;
 }
 
